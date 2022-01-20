@@ -71,8 +71,11 @@ Purchase a Faraday case to put your phone in when not in use. Also if you use Ve
 
 # Alternative apps:
 Aliucord - A private discord client that supports themes and plugins
+
 Infinity -  A private reddit client that is very pretty
+
 NewPipe - A private YouTube client that supports video downloading
+
 Signal - A private messaging client. Note: SMS still isn't secure so both people must have signal for Tull security
 
 There additionally is an open source app for about every utility app you could think of, from translation to notes.
@@ -88,8 +91,11 @@ Disable background usage for certain apps in their battery settinga.
 
 # Additional measures
 Greentooth - Disables Bluetooth when not in use (stop Bluetooth tracking)
+
 AirGuard - Scans for tracking devices near you
+
 ImagePipe - Removes location data from images
+
 ClassyShark - View installed apps and their internal trackers
 
 # If rooted
