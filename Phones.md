@@ -74,6 +74,8 @@ Aliucord - A private discord client that supports themes and plugins
 
 Infinity -  A private reddit client that is very pretty
 
+Stealth - A more private reddit client that doesn't need a login
+
 NewPipe - A private YouTube client that supports video downloading
 
 Signal - A private messaging client. Note: SMS still isn't secure so both people must have signal for Tull security
