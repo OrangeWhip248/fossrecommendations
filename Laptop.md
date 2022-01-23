@@ -9,3 +9,6 @@ https://shop.puri.sm/shop/librem-14/
 
 # Lemur Pro
 https://system76.com/laptops/lemur
+
+# Framework Laptop
+https://frame.work/
