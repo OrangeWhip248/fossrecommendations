@@ -12,3 +12,4 @@ https://system76.com/laptops/lemur
 
 # Framework Laptop
 https://frame.work/
+NOTE: This has intel chips which contain backdoors
