@@ -9,7 +9,14 @@ https://shop.puri.sm/shop/librem-14/
 
 # Lemur Pro
 https://system76.com/laptops/lemur
+NOTE: This has intel chips which contain backdoors
 
 # Framework Laptop
 https://frame.work/
 NOTE: This has intel chips which contain backdoors
+
+# Starlabs Laptops
+https://starlabs.systems
+
+# Tuxedo Laptops
+https://www.tuxedocomputers.com
