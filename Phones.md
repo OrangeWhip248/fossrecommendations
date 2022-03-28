@@ -103,6 +103,6 @@ ClassyShark - View installed apps and their internal trackers
 # If rooted
 Rooting a phone is a whole other adventure.
 
-Most people use Magisk to do this. After you root, it does allow for the use of XPrivacyLua, an app that can restrict even built in permissions from other apps. 
+Most people use Magisk to do this. After you root, it does allow for the use of XPrivacyLua, an app that can restrict even built in permissions from other apps. Another advantage is the removal of in app trackers with Warden, but all of this at as massive security risk for your phone. Rooting can be a good idea depending on your threat model.
 
 More info will be here soon about rooting
